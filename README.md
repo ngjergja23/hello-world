@@ -1,22 +1,3 @@
-# Hello World - Dobro došli
-Ovo je moj testni GitHub repozitorij
-
-## Uvod u GitHub
-
-Ovdje će biti objavljen uvod u GitHub
-
-### Osnove commitanja
-
-Ovdje će biti osnove vezane za comittanje promjena
-
-# Objava sadržaja uz pomoć GitHub pages
-
-Ovdje će biti upute vezane za objavu sadržaja repozitorija na webu 
-
-# Test datoteka 
-
-[Poveznica na test.md datoteku](test.md)
-
 # Dobrodošli na stranicu mog "hello-world" projekta!
 
 Ovaj projekt je pokrenut kao dio učenja i upoznavanja s osnovama rada na GitHubu. Kroz ovu stranicu, možete pratiti moj napredak i razvoj vještina u radu s Gitom i GitHubom.
@@ -39,3 +20,5 @@ Za više informacija o Gitu i GitHubu, posjetite [GitHub Docs](https://docs.gith
 Projekt je živ i dostupan za pregled na: [VašeKorisničkoIme.github.io/hello-world](https://VašeKorisničkoIme.github.io/hello-world)
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
+
+[Poveznica na test.md datoteku](test.md)
